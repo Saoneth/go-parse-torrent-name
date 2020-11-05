@@ -1,3 +1,3 @@
-module github.com/middelink/go-parse-torrent-name
+module github.com/Saoneth/go-parse-torrent-name
 
 go 1.12
